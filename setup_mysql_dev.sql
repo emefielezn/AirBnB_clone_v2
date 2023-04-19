@@ -1,4 +1,4 @@
-te a database name hbnb_dev_db
+--the a database name hbnb_dev_db
 CREATE DATABASE IF NOT EXISTS hbnb_dev_db;
 -- drops user if database exists
 -- DROP USER IF EXISTS 'hbnb_dev'@'localhost';
